@@ -33,5 +33,5 @@ result = div_func(num1,num2)
 print(num1,'/',num2,'=', result)
 
 result = squ_func(num1,num2)
-print(num1,'**',num2,'=', result)
+print(num1,'^',num2,'=', result)
 
